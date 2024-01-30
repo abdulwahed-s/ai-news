@@ -1,0 +1,37 @@
+header{
+    background: #E74646;
+    padding: 20px;
+    line-height: 1.7em;
+    margin: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1{
+    color: #FFE5CA ;
+    text-align: center;
+}
+section{
+    background: #451952;
+    padding: 20px;
+    line-height: 1.7em;
+    margin: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: background-color 1s;
+}
+p{
+    color: #210062;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    color: #F39F5A;
+    
+}
+section:hover{
+  background-color: #AE445A;
+  color: white;
+
+}
+
+a{
+    text-decoration:none
+}
